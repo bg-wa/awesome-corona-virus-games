@@ -3,7 +3,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) [web appli
 
 ---------------------
 
-###Contents
+#### Contents
 - [Word Games](#word-games)
 - [Trivia](#trivia)
 - [Card and Board Games](#card-and-board-games)
