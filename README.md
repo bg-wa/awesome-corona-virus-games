@@ -3,15 +3,15 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) [web appli
 
 ---------------------
 
-####Contents
+###Contents
 - [Word Games](#word-games)
 - [Trivia](#trivia)
-- [Card/Board Games](#card-board-games)
+- [Card and Board Games](#card-and-board-games)
 
 ---------------------
 
 ### Word Games
-[Codenames](https://www.horsepaste.com/) - **2 Teams** : Red Team and Blue Team guess words provided by the spymaster. 
+[Codenames](https://www.horsepaste.com/) - **2 Teams** : Red Team and Blue Team guess words provided by the spymaster on each team. 
 
 **[`^        back to top        ^`](#)**
 
@@ -20,7 +20,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) [web appli
 
 **[`^        back to top        ^`](#)**
 
-### Card/Board Games
+### Card and Board Games
 [PlayingCards.io](http://playingcards.io/) - **2-6 Teams** : Backgammon, Checkers, Crazy Eights, Escoba, Euchre, 
 Joking Hazzard™, Match Up, Remote Insensitivity (Cards Against Humanity)
 
